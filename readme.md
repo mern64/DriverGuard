@@ -6,10 +6,7 @@ An advanced, real-time AI monitoring system designed to enhance road safety. By 
 Driver exhaustion and emotional instability are primary contributors to global road fatalities. We developed this system as a **real-world solution** to be integrated into modern vehicle safety suites. Our goal is to **bridge the gap between AI research and road safety**, proactively preventing accidents before they occur.
 
 ## 📺 Project Demo
-*(Upload your video to GitHub or YouTube and paste the link below)*
 [![Project Demo](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube)]
-
-
 
 https://github.com/user-attachments/assets/b39df453-283e-4bc1-b0e2-34db1486c2d8
 
