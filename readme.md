@@ -4,7 +4,9 @@ An AI-powered monitoring system designed to enhance road safety by detecting dri
 
 ## 📺 Project Demo
 *(Upload your video to GitHub or YouTube and paste the link here)*
-[![Project Demo](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube)](YOUR_VIDEO_LINK_HERE)
+[![Project Demo](https:/![23DEFCED-126B-48DD-B590-ADFCBAF9355F_1_102_o](https://github.com/user-attachments/assets/0e09a64d-cf1c-4071-a8d3-5cef206e6b22)
+/img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube)](![Uploading 23DEFCED-126B-48DD-B590-ADFCBAF9355F_1_102_o.jpeg…]()
+ )
 
 ## 🚀 Features
 - **Real-time Monitoring:** Live camera feed processing via Flask.
