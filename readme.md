@@ -3,7 +3,7 @@
 An advanced, real-time AI monitoring system designed to enhance road safety. By leveraging Convolutional Neural Networks (CNN) and Computer Vision, DriverGuard detects early signs of driver exhaustion, distraction, and emotional distress, providing instant life-saving alerts.
 
 > **⚠️ Note: Project Evolution**
-> This project is a continuation and significant technical improvement of my previous work, [Driver Stress Detection]([github.com/mern64/Driver-Stress-Detection](https://github.com/mern64/Driver-Stress-Detection))
+> This project is a continuation and significant technical improvement of my previous work, [Driver Stress Detection](https://github.com/mern64/Driver-Stress-Detection)
 
 
 > While the core CNN logic for stress analysis remains, **DriverGuard** transforms the concept into a fully deployable product. It introduces a responsive web dashboard, real-time distraction tracking, emergency SOS protocols, and post-trip analytics.
