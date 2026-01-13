@@ -18,7 +18,7 @@ Driver exhaustion and emotional instability are primary contributors to global r
 
 ## 👤 Project Information
 
-* **Authors:** [Imran Mansor / Group 7]
+* **Authors:** [Imran | Putra | Fahim / Group 7]
 * **Course:** STINK3014 Neural Networks (A251)
 * **Institution:** Universiti Utara Malaysia (UUM)
 * **Documentation:** [📄 View Full Project PDF](https://www.google.com/search?q=STINK3014_A251_Project/STINK3014_A251_GroupProject.pdf)
